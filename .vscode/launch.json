@@ -3,7 +3,7 @@
   "configurations": [
     {
       "name": "Run Streamlit (web_app.py)",
-      "type": "python",
+      "type": "debugpy",
       "request": "launch",
       "module": "streamlit",
       "args": [
